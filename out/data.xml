@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <0>
+         <AuthorName>Лев</AuthorName>
+         <AuthorSurname>Толстой</AuthorSurname>
+         <BookTitle>Война и мир</BookTitle>
+         <BookYear>1869</BookYear>
+         <Book_ID>1</Book_ID>
+         <BorrowDate>2025-02-01</BorrowDate>
+         <LibrarianName>Анна</LibrarianName>
+         <LibrarianSurname>Сидорова</LibrarianSurname>
+         <Loan_ID>1</Loan_ID>
+         <ReaderName>Иван</ReaderName>
+         <ReaderSurname>Иванов</ReaderSurname>
+         <ReturnDate>2025-02-15</ReturnDate>
+         <StatusName>Возвращена</StatusName>
+     </0>
+     <1>
+         <AuthorName>Фёдор</AuthorName>
+         <AuthorSurname>Достоевский</AuthorSurname>
+         <BookTitle>Преступление и наказание</BookTitle>
+         <BookYear>1866</BookYear>
+         <Book_ID>2</Book_ID>
+         <BorrowDate>2025-03-10</BorrowDate>
+         <LibrarianName>Анна</LibrarianName>
+         <LibrarianSurname>Сидорова</LibrarianSurname>
+         <Loan_ID>2</Loan_ID>
+         <ReaderName>Иван</ReaderName>
+         <ReaderSurname>Иванов</ReaderSurname>
+         <ReturnDate></ReturnDate>
+         <StatusName>На руках</StatusName>
+     </1>
+     <2>
+         <AuthorName>Лев</AuthorName>
+         <AuthorSurname>Толстой</AuthorSurname>
+         <BookTitle>Война и мир</BookTitle>
+         <BookYear>1869</BookYear>
+         <Book_ID>1</Book_ID>
+         <BorrowDate>2025-01-05</BorrowDate>
+         <LibrarianName>Анна</LibrarianName>
+         <LibrarianSurname>Сидорова</LibrarianSurname>
+         <Loan_ID>3</Loan_ID>
+         <ReaderName>Пётр</ReaderName>
+         <ReaderSurname>Петров</ReaderSurname>
+         <ReturnDate>2025-01-20</ReturnDate>
+         <StatusName>Возвращена</StatusName>
+     </2>
+ </root>

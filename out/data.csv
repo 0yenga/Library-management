@@ -1,0 +1,4 @@
+Loan_ID,BorrowDate,ReturnDate,Book_ID,BookTitle,BookYear,AuthorName,AuthorSurname,ReaderName,ReaderSurname,LibrarianName,LibrarianSurname,StatusName
+1,2025-02-01,2025-02-15,1,Война и мир,1869,Лев,Толстой,Иван,Иванов,Анна,Сидорова,Возвращена
+2,2025-03-10,,2,Преступление и наказание,1866,Фёдор,Достоевский,Иван,Иванов,Анна,Сидорова,На руках
+3,2025-01-05,2025-01-20,1,Война и мир,1869,Лев,Толстой,Пётр,Петров,Анна,Сидорова,Возвращена
